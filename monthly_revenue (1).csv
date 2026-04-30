@@ -1,0 +1,20 @@
+year,month,month_name,gross_revenue,num_transactions,season,notes
+2024,9,September,8420,47,Summer/Fall,Transition month - high early shoulder
+2024,10,October,5890,32,Fall,Fall shoulder season
+2024,11,November,4310,18,Fall/Winter,Corporate bookings start
+2024,12,December,5820,12,Winter,Corporate monthly + holiday
+2025,1,January,6840,14,Winter,Acuren monthly + corporate
+2025,2,February,4950,22,Winter,Low occupancy mix
+2025,3,March,5640,18,Spring,Spring start + corporate monthly
+2025,4,April,4820,24,Spring,Spring ramping
+2025,5,May,6230,28,Spring,Strong spring
+2025,6,June,9870,32,Summer,Summer begins
+2025,7,July,19850,38,Summer,PEAK - Celtic Festival included
+2025,8,August,17640,41,Summer,Peak summer
+2025,9,September,7230,35,Summer/Fall,Shoulder season
+2025,10,October,4980,26,Fall,Fall
+2025,11,November,3640,14,Winter,Corporate start
+2025,12,December,4920,11,Winter,Corporate monthly
+2026,1,January,11889.84,18,Winter,POS VERIFIED - Acuren + corporate heavy
+2026,2,February,7403.76,13,Winter,POS VERIFIED
+2026,3,March,10110.11,9,Spring,POS VERIFIED - monthly corporates
