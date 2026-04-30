@@ -190,7 +190,7 @@ All 4 charts will be saved to the `outputs/` folder.
 
 This project was built using real data from an active independent motel business in Ontario as part of a data analytics portfolio. It demonstrates end-to-end analytical skills — data cleaning, SQL querying, KPI calculation, visualization, NLP, forecasting, and business communication.
 
-**Analyst:** [Your Name] | [LinkedIn] | [Portfolio]
+**Analyst:** Anns Iqbal
 
 ---
 
